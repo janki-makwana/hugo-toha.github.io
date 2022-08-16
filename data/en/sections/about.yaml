@@ -32,21 +32,10 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/janki-makwana"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/jankimakwana/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
