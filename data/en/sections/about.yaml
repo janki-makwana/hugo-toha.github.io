@@ -49,7 +49,7 @@ resourceLinks:
 badges:
 - type: certification
   name: AWS Certified Cloud Practitioner
-  url: "https://www.credly.com/badges/217917b5-0506-48af-abf4-a75335be2143/public_url"
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: certification
