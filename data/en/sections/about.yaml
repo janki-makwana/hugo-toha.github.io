@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Scientist
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: GlobalLogic UK&I
+  url: "https://www.globallogic.com/uk/about/locations/u-k/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
