@@ -11,24 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: GlobalLogic UK&I
-    url: "https://www.globallogic.com/uk/about/locations/u-k/"
-    location: London
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Dhaka Branch
     # company overview
-    overview: A digital product engineering company.
-We integrate experience design and complex engineering to help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital businesses.
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Associate Data Scientist
-    start: September 2021
+  - designation: Senior Software Engineer
+    start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: 
+    # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Associate Consultant
+  - designation: Junior Software Engineer
     start: Nov 2017
     end: Oct 2019
     responsibilities:
