@@ -12,26 +12,26 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: AWS Sagemaker
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/Sagemaker.jpeg
   summary: "Capable of training and processing ML models using AWS Sagemaker"
   url: "https://kubernetes.io/"
 
 - name: AWS General
-  logo: /images/sections/skills/go.png
-  summary: "I have worked with multiple AWS services from AWS Forecast, AWS Greengrass/IoT, AWS Lambda etc"
+  logo: /images/sections/skills/AWS.png
+  summary: "I have worked with multiple AWS services from AWS Forecast, AWS Greengrass/IoT, AWS Lambda, AWS Quicksight etc"
   url: "https://golang.org/"
 
 - name: Snowflake
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/snowflake.jpeg
   summary: "Gained a certification with Snowflake and have used Snowpark to create machine learning models."
 
 - name: Netlify
-  logo: /images/sections/skills/docker.svg
+  logo: /images/sections/skills/netlify.png
   summary: "Helped with deploying this website"
   url: "https://www.docker.com/"
 
 - name: Hugo
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/hugo.png
   summary: "Used Hugo to create this current website, will be developing it further to use traditional languages such as JS, HTML, CSS. "
   url: "https://prometheus.io/"
 
@@ -41,5 +41,5 @@ skills:
   url: "https://git-scm.com/"
 
 - name: Python
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/python.jpeg
   summary: "I have used Python in multiple different projects and I am quite experienced with this language"
