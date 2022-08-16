@@ -19,18 +19,18 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am passionate Data Scientist. I have two years of working experience, the first being a Commercial Insights Analyst at Prime Video and the second as a Data Scientist within a graduate program at GlobalLogic UK&I.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "jankimakwana123@outlook.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/janki-makwana"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,7 +38,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/jankimakwana/"
 
 - name: Twitter
   icon: "fab fa-twitter"
