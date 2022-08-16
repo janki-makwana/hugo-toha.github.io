@@ -54,13 +54,13 @@ badges:
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  url: "https://www.credly.com/badges/c4023a21-8edd-4fe3-adb6-75afe589d670/public_url"
+  badge: "https://images.credly.com/size/220x220/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/SnowProCoreTM600.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Python for Data Science
+  url: "https://www.credly.com/badges/3adbb56e-fa07-4330-a398-9ce9e1aa8fc9/public_url"
+  badge: "https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"
 
 - type: soft-skill-indicator
   name: Leadership
