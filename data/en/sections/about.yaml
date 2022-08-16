@@ -53,7 +53,7 @@ badges:
   badge: "https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
+  name: SnowPro Core Certification
   url: "https://www.credly.com/badges/c4023a21-8edd-4fe3-adb6-75afe589d670/public_url"
   badge: "https://images.credly.com/size/220x220/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/SnowProCoreTM600.png"
 
@@ -61,6 +61,21 @@ badges:
   name: Python for Data Science
   url: "https://www.credly.com/badges/3adbb56e-fa07-4330-a398-9ce9e1aa8fc9/public_url"
   badge: "https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"
+
+- type: certification
+  name: Hands On Essentials - Data Warehouse
+  url: "https://www.credly.com/badges/9a4eb838-10ab-4a5e-9180-28ae429e194e/public_url"
+  badge: "https://images.credly.com/size/220x220/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png"
+
+- type: certification
+  name: AWS Partner: Accreditation (Technical)
+  url: "https://www.credly.com/badges/334975b3-8ffe-44f1-98ee-23c3bc31368a/public_url"
+  badge: "https://images.credly.com/size/220x220/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"
+
+- type: certification
+  name: AWS Partner: Accreditation (Business)
+  url: "https://www.credly.com/badges/83131cb7-a0eb-4fc5-a360-828222a41905/public_url"
+  badge: "https://images.credly.com/size/220x220/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"
 
 - type: soft-skill-indicator
   name: Leadership
