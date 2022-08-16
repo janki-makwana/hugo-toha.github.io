@@ -3,7 +3,7 @@ name: "Janki Makwana"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/0391C7F5-11C2-4B9A-9647-56AD5C66DB8E.JPG"
+image: "images/author/janki-pic.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "jankimakwana123@outlook.com"
