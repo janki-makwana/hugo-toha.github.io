@@ -9,12 +9,12 @@ contactInfo:
   email: "jankimakwana123@outlook.com"
   phone: "+447946116811"
   github: janki-makwana
-  linkedin: Janki Makwana ( https://www.linkedin.com/in/jankimakwana/ )
+  linkedin: https://www.linkedin.com/in/jankimakwana/
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Data Scientist
+  - I am a Python Developer
+  - I love Data
+  - I work with ML
+
