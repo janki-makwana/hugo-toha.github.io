@@ -68,15 +68,15 @@ degrees:
     - name: Mathematics
       achieved: A
       #outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    - name: Economics
+      achieved: B
+      #outOf: 4
+    - name: Computer Science
+      achieved: C
+      #outOf: 4
+    - name: Further Mathematics 
+      achieved: A
+      #outOf: 4
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
@@ -84,9 +84,9 @@ degrees:
   - Pellentesque ut fringilla magna.
 - name: Secondary School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2010-2015
   institution:
-    name: JK School of Science
+    name: The City of Leicester College
   grade: #(optional)
     scale: GPA
     achieved: 4.5
