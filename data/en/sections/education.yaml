@@ -10,16 +10,16 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Computer Science and Mathematics, Second Class, Upper Division
+- name: Computer Science and Mathematics, 2.1
   icon: fa-microscope
   timeframe: 2017-2021
   institution:
     name: Loughborough University
     url: "https://www.lboro.ac.uk/"
-  grade: #
-    scale: Degree Classification
-    achieved: 2.1
-    outOf: 4
+  #grade: #
+  #  scale: Degree Classification
+  #  achieved: 2.1
+  #  outOf: 4
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
