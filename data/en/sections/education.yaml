@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Loughborough University
     url: "https://www.lboro.ac.uk/"
-  grade: "2.1"
+  #grade: #
   #  scale: CGPA
    # achieved: 3.6
    # outOf: 4
