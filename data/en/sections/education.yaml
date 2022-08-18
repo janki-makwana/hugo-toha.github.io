@@ -16,10 +16,10 @@ degrees:
   institution:
     name: Loughborough University
     url: "https://www.lboro.ac.uk/"
-  #grade: #
-  #  scale: Degree Classification
-  # achieved: 2.1
-  #  outOf: 4
+  grade: #
+    scale: Degree Classification
+    achieved: 2.1
+    outOf: 4
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
