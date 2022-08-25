@@ -30,13 +30,18 @@ experiences:
     - Created a report that finds competitors of a NASDAQ 100 company and scrapes articles to find out the sentiment of those articles (tells the company how well or not well they are being perceived in the media in comparison to their competitors)
 
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation:  Associate Consultant
+    start: Sept 2021
+    end: May 2022
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - This is a graduate program, in which we created an app at www.climatece.co.uk, it was called the Climate Cost Explorer
+    - Worked as backend developer, mostly Python code. This also included using boto3 (AWS) and creating endpoints for frontend team to use
+    - Used DynamoDB for quick database setup using YAML templates
+    - Created forecast of carbon emission usage
+    - Worked in a team with SCRUM methodology
+    - Project was so wellreceived by all that we were encouraged to have a phase 2 - unfortunately there were blockers
+    - Clients were asking about this project a lot - there was a lot of potential for business
+
 
 - company:
     name: PreExample Co.
