@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: GlobalLogic UK & I 
+    name: GlobalLogic UK&I 
     url: "https://www.globallogic.com/uk/"
     location: London
     # company overview
@@ -44,21 +44,23 @@ experiences:
 
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Amazon Prime Video
+    url: "https://www.amazon.co.uk/gp/video/storefront?filterId=OFFER_FILTER=PRIME"
+    location: London
+    overview: Amazon Prime Video, or simply Prime Video, is an American subscription video on-demand over-the-top streaming and rental service of Amazon offered as a standalone service or as part of Amazon's Prime subscription.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Commercial Insights Intern
+    start: Sept 2019
+    end: Aug 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Optimised database clusters in Amazon Redshift
+    - Used Amazon Quicksight to create dashboards for KPIs within Prime Video.
+    - Learned about different machine learning models
+    - Heavily used SQL to pull key data from different tables and did exploratory data analysis on the data to extract useful insights
+
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: Gamesys
     url: "https://www.example.com"
     location: Intern Land
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
