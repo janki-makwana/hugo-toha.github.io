@@ -60,15 +60,19 @@ experiences:
 
 
 - company:
-    name: Gamesys
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Gamesys, a Bally's Corporation Company
+    url: "https://www.gamesysgroup.com/"
+    location: London
+    overview:  We are a leading international online gaming operator, well positioned strategically for future growth in an evolving global sector.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: QA Intern
+    start: Jul 2017
+    end: Aug 2017
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Testing the games, keeping a high level of attention to the small details in the game.
+    - Learning how to use Jira to report the bugs happening within the game and rectifying bugs
+
+
+
+
+
