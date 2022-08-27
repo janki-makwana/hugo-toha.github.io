@@ -30,7 +30,7 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 3
+    collapseAfter: 6
     courses:
     - name: Computer Science and Mathematics Project
      # achieved: 3.75
