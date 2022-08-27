@@ -87,7 +87,7 @@ degrees:
   #- title: Fusce eu augue ut odio porttitor pulvinar.
   #  url: "#"
   extracurricularActivities: #(optional)
-  - Final Year Project: COVID-19 Pandemic Data Analysis and Forecasting Using Machine Learning
+  - Final Year Project, COVID-19 Pandemic Data Analysis and Forecasting Using Machine Learning
   - Loughborough Environment and Ethics Committee (Events Coordinator)
   - Loughborough Veg Society Treasurer
 - name: College
@@ -120,7 +120,20 @@ degrees:
   timeframe: 2010-2015
   institution:
     name: The City of Leicester College
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 4
+    courses:
+    - name: Mathematics
+      achieved: A
+      #outOf: 4
+    - name: English Literature / Language
+      achieved: BB
+      #outOf: 4
+    - name: Double Science
+      achieved: AB
+      #outOf: 4
+    - name: Further Mathematics 
+      achieved: A
+      #outOf: 4
