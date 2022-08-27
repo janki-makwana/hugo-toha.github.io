@@ -87,10 +87,9 @@ degrees:
   #- title: Fusce eu augue ut odio porttitor pulvinar.
   #  url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Final Year Project: COVID-19 Pandemic Data Analysis and Forecasting Using Machine Learning
+  - Loughborough Environment and Ethics Committee (Events Coordinator)
+  - Loughborough Veg Society Treasurer
 - name: College
   icon: fa-university
   timeframe: 2015-2017
@@ -115,10 +114,7 @@ degrees:
       achieved: A
       #outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2010-2015
