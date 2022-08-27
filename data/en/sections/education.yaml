@@ -32,55 +32,18 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Advanced Artificial Intelligence Systems
-      achieved:4
+    - name: Data Structures and Algorithm
+      achieved: 3.75
       outOf: 4
-    - name: Statistical Modelling
+    - name: Network Security
       achieved: 3.80
       outOf: 4
-    - name: Data Mining
-      achieved: 3.75
-      outOf: 4
-    - name: Software Engineering
-      achieved: 3.75
-      outOf: 4
-    - name: Enterprise Resource Planning Systems
+    - name: Operating System
       achieved: 3.5
       outOf: 4
-    - name: Linear Algebra
-      achieved: 3.80
-      outOf: 4
-    - name: Mathematical Methods
-      achieved: 3.5
-      outOf: 4
-    - name: Database
+    - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
-    - name: Object Oriented Programming
-      achieved: 3.75
-      outOf: 4
-    - name: Geometry and Groups
-      achieved: 3.80
-      outOf: 4
-    - name: AI Methods
-      achieved: 3.5
-      outOf: 4
-    - name: Numerical Methods
-      achieved: 3.75
-      outOf: 4
-    - name: Formal Languages and Theory of Computation
-      achieved: 3.75
-      outOf: 4
-    - name: Computer Graphics
-      achieved: 3.80
-      outOf: 4
-    - name: Probability Theory
-      achieved: 3.75
-      outOf: 4
-    - name: Linear Differential Equations
-      achieved: 3.5
-      outOf: 4
-
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
@@ -97,7 +60,7 @@ degrees:
   institution:
     name: Wyggeston and Queen Elizabeth I College
     url: "#"
-  takenCourses:#(optional)
+  takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 4
