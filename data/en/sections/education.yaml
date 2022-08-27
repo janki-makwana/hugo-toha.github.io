@@ -33,8 +33,8 @@ degrees:
     collapseAfter: 3
     courses:
     - name: Advanced Artificial Intelligence Systems
-      achieved:
-      outOf: 
+      Achieved:4
+      outOf: 4
     - name: Statistical Modelling
       achieved: 3.80
       outOf: 4
