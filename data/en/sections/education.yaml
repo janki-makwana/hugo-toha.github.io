@@ -32,52 +32,52 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
+    - name: Computer Science and Mathematics Project
      # achieved: 3.75
       #outOf: 4
-    - name: Network Security
+    - name: Advanced Artificial Intelligence Systems
      # achieved: 3.80
      # outOf: 4
-    - name: Operating System
+    - name: Data Mining
      # achieved: 3.5
      # outOf: 4
-    - name: Artificial Intelligent
+    - name: Probability Theory
      # achieved: 3.75
      # outOf: 4
-    - name: Data Structures and Algorithm
+    - name: Linear Differential Equations
      # achieved: 3.75
       #outOf: 4
-    - name: Network Security
+    - name: Enterprise Resource Planning Systems
      # achieved: 3.80
      # outOf: 4
-    - name: Operating System
+    - name: Advanced Numerical Methods
      # achieved: 3.5
      # outOf: 4
-    - name: Artificial Intelligent
+    - name: Numerical Methods
      # achieved: 3.75
      # outOf: 4
-    - name: Data Structures and Algorithm
+    - name: AI Methods
      # achieved: 3.75
       #outOf: 4
-    - name: Network Security
+    - name: Formal Languages and Theory of Computation
      # achieved: 3.80
      # outOf: 4
-    - name: Operating System
+    - name: Computer Graphics
      # achieved: 3.5
      # outOf: 4
-    - name: Artificial Intelligent
+    - name: Mathematical Methods
      # achieved: 3.75
      # outOf: 4
-    - name: Data Structures and Algorithm
+    - name: Databases
      # achieved: 3.75
       #outOf: 4
-    - name: Network Security
+    - name: Software Engineering 
      # achieved: 3.80
      # outOf: 4
-    - name: Operating System
+    - name: Linear Algebra
      # achieved: 3.5
      # outOf: 4
-    - name: Artificial Intelligent
+    - name: Object Oriented Programming
      # achieved: 3.75
      # outOf: 4
 
