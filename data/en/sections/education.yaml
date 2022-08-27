@@ -33,17 +33,17 @@ degrees:
     collapseAfter: 3
     courses:
     - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
+     # achieved: 3.75
+      #outOf: 4
     - name: Network Security
-      achieved: 3.80
-      outOf: 4
+     # achieved: 3.80
+     # outOf: 4
     - name: Operating System
-      achieved: 3.5
-      outOf: 4
+     # achieved: 3.5
+     # outOf: 4
     - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+     # achieved: 3.75
+     # outOf: 4
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #  url: "#"
