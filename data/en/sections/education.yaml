@@ -120,7 +120,8 @@ degrees:
   timeframe: 2010-2015
   institution:
     name: The City of Leicester College
-  takenCourses: false#(optional)
+    Url: "https://www.cityleicester.co.uk/"
+  takenCourses:#(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 4
