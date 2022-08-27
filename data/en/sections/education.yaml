@@ -120,9 +120,9 @@ degrees:
   timeframe: 2010-2015
   institution:
     name: The City of Leicester College
-  takenCourses: #(optional)
+  takenCourses: false#(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 4
     courses:
     - name: Mathematics
